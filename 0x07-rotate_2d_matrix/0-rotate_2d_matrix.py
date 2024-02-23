@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-Rotate 2d
-"""
+""" 2d rotate """
 
 
 def rotate_2d_matrix(matrix):
